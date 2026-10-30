@@ -1,0 +1,9 @@
+{
+  "id": "stacked-canvas-helper",
+  "name": "Stacked Canvas Helper",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Keeps Canvas pointer math correct inside stacked tabs so zoom-at-cursor and paste/drop land under the cursor.",
+  "author": "dylanchid",
+  "isDesktopOnly": true
+}
